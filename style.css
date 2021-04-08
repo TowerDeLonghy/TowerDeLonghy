@@ -1,0 +1,79 @@
+body{
+  position: relative;
+  width: 99%;
+  height: 99%;
+  background-color: #252525;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0px;
+}
+h1{
+  position: absolute;
+  width: 405px;
+  height: 85px;
+  left: 118px;
+  top: 0px;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 85px;
+
+  color: #DCDCDC;
+}
+
+.ja{
+  position: absolute;
+  width: 1850px;
+  top: 0px;
+}
+
+.mts{
+  position: absolute;
+  width: 239px;
+  height: 76px;
+  left: 1034px;
+  top: 915px;
+
+
+
+}
+
+.ai{
+  position: absolute;
+  width: 239px;
+  height: 76px;
+  left: 1298px;
+  top: 915px;
+
+
+
+}
+
+.cr{
+  position: absolute;
+  width: 239px;
+  height: 76px;
+  left: 1562px;
+  top: 915px;
+
+
+
+}
+
+button{
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+
+
+  color: #2D2D2D;
+
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 13px;
+  border: none;
+}
